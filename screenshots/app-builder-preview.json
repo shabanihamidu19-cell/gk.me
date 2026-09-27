@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Sprout Tracker",
+      "hasCanvas": false,
+      "bodyTextLen": 6,
+      "bodyTextHash": "badd2252b629e326bf47991a3573829cc1f0ccb783ca7b554de803fc38a0e7eb",
+      "bodyTextPrefix": "Sprout",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Sprout Tracker",
+      "hasCanvas": false,
+      "bodyTextLen": 293,
+      "bodyTextHash": "4a484f09e4345bfe27eacce8ce1342334378bdbd4bfbb5787b6f65445504ee5d",
+      "bodyTextPrefix": "Sprout SATURDAY, SEPTEMBER 26, 2026 Good evening Small progress ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
